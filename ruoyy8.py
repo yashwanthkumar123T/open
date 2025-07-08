@@ -1,1 +1,2 @@
 print("jss ")
+print("polytechnic")
